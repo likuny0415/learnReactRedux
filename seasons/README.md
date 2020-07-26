@@ -19,4 +19,4 @@
     - 'State' contains data that directly relate the component I'm working on
     - Using state cause our component to rerender instantly when update
     - State must be initialized
-      \*\* State must be update by function 'setState'
+      ** State must be update by function 'setState' **
