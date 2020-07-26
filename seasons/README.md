@@ -14,9 +14,9 @@
 
   - In order to use the state system
 
-        - Only usable with Class component
-        - Easy to mix up between props and state system
-        - 'State' contains data that directly relate the component I'm working on
-        - Using state cause our component to rerender instantly when update
-        - State must be initialized
-        - ** State must be update by function 'setState'
+    - Only usable with Class component
+    - Easy to mix up between props and state system
+    - 'State' contains data that directly relate the component I'm working on
+    - Using state cause our component to rerender instantly when update
+    - State must be initialized
+      \*\* State must be update by function 'setState'
