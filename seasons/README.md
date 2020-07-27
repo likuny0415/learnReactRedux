@@ -19,4 +19,15 @@
     - 'State' contains data that directly relate the component I'm working on
     - Using state cause our component to rerender instantly when update
     - State must be initialized
-      ** State must be update by function 'setState' **
+    - **State must be update by function 'setState'**
+
+- Component LifeCycle
+
+  - constructor (good place to do state initiazation)
+  - render (call many times if we update our method) (return JSX)
+  - componentDidMount (initial data loading)
+  - componentDidUpdate
+  - componentWillUncomount (cleanup our component)
+
+- Why using Component LifeCycle method
+  -
